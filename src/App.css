@@ -1,0 +1,8 @@
+.invalid-input {
+  border: 2px solid red !important; 
+}
+
+.invalid-input:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
