@@ -1,3 +1,3 @@
 ## Instalaciones previas
-`npm install`
-`npm install react-bootstrap bootstrap`
+- `npm install`
+- `npm install react-bootstrap bootstrap`
