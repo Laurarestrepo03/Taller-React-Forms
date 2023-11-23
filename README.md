@@ -1,6 +1,5 @@
 ## Instalaciones previas
-- `npm install`
-- `npm install react-bootstrap bootstrap`
+`npm install`
 
 ## Iniciar aplicación
 `npm start`
